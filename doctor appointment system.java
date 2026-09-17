@@ -55,12 +55,12 @@ public class Main {
 
     public static void main(String[] args) {
         // Add some doctors
-        doctors.add(new Doctor(1, "Smith", "Cardiology"));
-        doctors.add(new Doctor(2, "Patel", "Dermatology"));
+        doctors.add(new Doctor(1, "madarchod", "Cardiology"));
+        doctors.add(new Doctor(2, "tumhari mkc", "Dermatology"));
 
         // Add some patients
-        patients.add(new Patient(1, "Alice"));
-        patients.add(new Patient(2, "Bob"));
+        patients.add(new Patient(1, "cock"));
+        patients.add(new Patient(2, "Boob"));
 
         while (true) {
             printMenu();
